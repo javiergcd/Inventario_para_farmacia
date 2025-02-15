@@ -1,2 +1,2 @@
-# Inventario_para_farmacia
+# Inventario para farmacia
 Sistema de inventario para una farmacia
